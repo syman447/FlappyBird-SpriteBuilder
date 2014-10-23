@@ -142,7 +142,7 @@
 				<key>displayName</key>
 				<string>cloud</string>
 				<key>memberVarAssignmentName</key>
-				<string></string>
+				<string>_cloud1</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -153,7 +153,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string>_cloud1</string>
+						<string></string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -218,6 +218,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -231,7 +233,7 @@
 				<key>displayName</key>
 				<string>cloud</string>
 				<key>memberVarAssignmentName</key>
-				<string></string>
+				<string>_cloud2</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -242,7 +244,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string>_cloud2</string>
+						<string></string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -320,7 +322,7 @@
 				<key>displayName</key>
 				<string>bush</string>
 				<key>memberVarAssignmentName</key>
-				<string></string>
+				<string>_bush1</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -331,7 +333,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string>_bush1</string>
+						<string></string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -409,7 +411,7 @@
 				<key>displayName</key>
 				<string>bush</string>
 				<key>memberVarAssignmentName</key>
-				<string></string>
+				<string>_bush2</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -420,7 +422,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string>_bush2</string>
+						<string></string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -485,8 +487,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
