@@ -153,7 +153,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string>cloud1</string>
+						<string>_cloud1</string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -218,8 +218,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -244,7 +242,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string>cloud2</string>
+						<string>_cloud2</string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -333,7 +331,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string>bush1</string>
+						<string>_bush1</string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -422,7 +420,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string>bush2</string>
+						<string>_bush2</string>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -487,6 +485,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
